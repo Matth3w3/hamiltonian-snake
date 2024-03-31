@@ -1,6 +1,6 @@
 # hamiltonian-snake
 
-Beating the Snake Game using Hamiltonian Cycles.
+Beating the Snake Game using Hamiltonian Cycles in Clojure.
 
 Software Used: 
 - Windows 10/11
